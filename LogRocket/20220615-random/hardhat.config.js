@@ -17,7 +17,7 @@ module.exports = {
   networks: {
     "goerli": {
        url: "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
-       accounts: ["seccret"]
+       accounts: ["seccret"] //0x34b67473b9003f7977dA033E7Ea793782FaDFAD2
     }
   }
 
